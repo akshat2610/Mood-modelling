@@ -1,0 +1,30 @@
+body{
+  background-color: #2f6690;
+}
+
+img{
+  height: 20px;
+}
+
+#topPanel{
+  background-color: #e36893;
+  min-height: 80px;
+  display: flow-root;
+  padding: auto auto;
+  text-align: center;
+  font-family: sans-serif;
+  font-size:  24px;
+}
+
+#infoPanel{
+  text-align: center;
+}
+
+#signUpForm{
+  background-color: lightblue;
+  min-width: 250px;
+  max-width: 350px;
+  margin: auto auto;
+  border-style: groove;
+  text-align: center;
+}

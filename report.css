@@ -1,0 +1,21 @@
+body{
+  background-color: #2f6690;
+}
+
+#topPanel{
+  background-color: #e36893;
+  min-height: 60px;
+  display: flow-root;
+  padding: auto auto;
+  text-align: center;
+  font-family: monospace;
+  font-size:  24px;
+}
+
+#report{
+  text-align: center;
+}
+
+.heading{
+  font-weight: 2.0em;
+}
